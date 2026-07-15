@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,45:414868,100:7aa2f7&height=220&section=header&text=Qi%20Luo&fontSize=68&fontColor=c0caf5&desc=IC%20%2F%20SoC%20%C2%B7%20Digital%20Frontend%20%C2%B7%20FDU&descColor=c0caf5&descSize=22&descAlignY=78" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f111a,55:1a1b27,100:292e42&height=220&section=header&text=Qi%20Luo&fontSize=68&fontColor=ffffff&desc=IC%20%2F%20SoC%20%C2%B7%20Digital%20Frontend%20%C2%B7%20FDU&descColor=ffffff&descSize=24&descAlignY=70" width="100%"/>
 
 <a href="https://github.com/RockyQLuo">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=7AA2F7&center=true&vCenter=true&width=760&lines=IC+%2F+SoC+Design;Digital+Frontend+Engineer;Verilog+%2F+SystemVerilog;RTL+%C2%B7+Integration+%C2%B7+Bring-up;Fudan+University" alt="Typing SVG" />
